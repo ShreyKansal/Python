@@ -32,6 +32,6 @@ print(pounds)
 
 #Variable Updation
 var2 = 12
-var2 = 15 #updared value
+var2 = 15 #updated value
 print(var2) 
 

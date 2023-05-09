@@ -41,7 +41,8 @@ print(str2[:0]) #PRINTS NOTHING
 str4 = 'Orange is a fruit'
 str5 = ',it is orange in colour.'
 final_str = str4 + str5 + " " + "It is healthy."
-print(final_str)
+print(final_str) 
+print(f'{str4}{str5}')
 
 #String Functions 
 str6 = 'I love green'
@@ -61,6 +62,8 @@ print(str6.replace("love", "hate"))
 #in operator in string
 print("love" in str6) #returns a boolean value - True
 print("hate" in str6) #returns a boolean value - False 
+
+
 
 
 
